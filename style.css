@@ -1,0 +1,36 @@
+article {
+  width: 50rem;
+  margin: 0 auto;
+}
+body {
+  background-color: #ffffff;
+}
+
+h1 {
+  color: #23226c;
+  font-weight: 900;
+  font-size: 240%;
+  text-align: center;
+}
+h2 {
+  color: #23226c;
+  font-weight: 900;
+  font-size: 180%;
+}
+p {
+  color: #555555;
+  line-height: 150%;
+  text-align: justify;
+}
+strong {
+  color: black;
+}
+.intro {
+  background-color: #D2D6EF;
+}
+.conclusion {
+  background-color: #D2D6EF;
+}
+section {
+  padding: 0.5rem 2rem;
+}
